@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585255597 source:c:\users\79085\desktop\lab1\main.cpp
+	<iostream>
+	"Product.h"
+
+1585255597 c:\users\79085\desktop\lab1\product.h
+
+1585255597 source:c:\users\79085\desktop\lab1\product.cpp
+	<iostream>
+	"Product.h"
+
